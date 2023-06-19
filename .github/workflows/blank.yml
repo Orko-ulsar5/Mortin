@@ -1,0 +1,25 @@
+>>> freecodecamp = "freeCodeCamp"
+
+# Початок та крок за замовчуванням
+>>> freecodecamp[:8]
+'freeCode'
+
+# Кінець та крок за замовчуванням
+>>> freecodecamp[4:]
+'CodeCamp'
+
+# Початок за замовчуванням
+>>> freecodecamp[:8:2]
+'feCd'
+
+# Кінець за замовчуванням
+>>> freecodecamp[4::3]
+'Cem'
+
+# Початок та кінець за замовчуванням
+>>> freecodecamp[::-2]
+'paeoer'
+
+# Початок та кінець за замовчуванням
+>>> freecodecamp[::-1]
+'pmaCedoCeerf'
